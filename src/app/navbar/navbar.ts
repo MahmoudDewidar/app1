@@ -3,10 +3,8 @@ import { RouterLink, RouterLinkActive } from '@angular/router';
 
 @Component({
   selector: 'app-navbar',
-  imports: [RouterLink,RouterLinkActive ],
+  imports: [RouterLink, RouterLinkActive],
   templateUrl: './navbar.html',
-  styleUrl: './navbar.css'
+  styleUrl: './navbar.css',
 })
-export class Navbar {
-
-}
+export class Navbar {}

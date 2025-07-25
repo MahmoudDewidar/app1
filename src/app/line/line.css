@@ -1,9 +1,8 @@
-.line{
-    height: 4px;
-    width: 80px;
-    background-color: white;
-    
+.line {
+  height: 4px;
+  width: 80px;
+  background-color: white;
 }
-.line-block{
-    margin-bottom: 16px;
+.line-block {
+  margin-bottom: 16px;
 }

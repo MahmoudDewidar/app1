@@ -1,12 +1,10 @@
 import { Component } from '@angular/core';
-import { Line } from "../line/line";
+import { Line } from '../line/line';
 
 @Component({
   selector: 'app-portfolio',
-  imports: [Line],
+  imports: [],
   templateUrl: './portfolio.html',
-  styleUrl: './portfolio.css'
+  styleUrl: './portfolio.css',
 })
-export class Portfolio {
-
-}
+export class Portfolio {}
